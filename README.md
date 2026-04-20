@@ -23,4 +23,4 @@ Power BI dashboard analyzing sales performance, profitability, and business tren
 - Sales Dashboard.pbix
 - Global-Superstore.csv
 ## 📸 Dashboard Preview
-![Dashboard](Screenshot(130).png)
+![Dashboard](dashboard.png)
